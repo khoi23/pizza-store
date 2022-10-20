@@ -1,0 +1,48 @@
+const products = [
+    {
+        name: "Product 1",
+        description: "Lorem ipsum",
+        price: 2100,
+        rating: 3.4,
+        images: "/images/1.jpg",
+        category: "Category",
+        stock: 4,
+        numOfReviews: 3,
+        createdAt,
+    },
+    {
+        name: "Product 2",
+        description: "Lorem ipsum",
+        price: 2600,
+        rating: 4.4,
+        images: "/images/2.jpg",
+        category: "Category",
+        stock: 4,
+        numOfReviews: 3,
+        createdAt,
+    },
+    {
+        name: "Product 3",
+        description: "Lorem ipsum",
+        price: 2500,
+        rating: 3.4,
+        images: "/images/3.jpg",
+        category: "Category",
+        stock: 4,
+        numOfReviews: 3,
+        createdAt,
+    },
+    {
+        name: "Product 4",
+        description: "Lorem ipsum",
+        price: 2200,
+        rating: 3.4,
+        images: "/images/4.jpg",
+        category: "Category",
+        stock: 4,
+        numOfReviews: 3,
+        createdAt,
+    },
+];
+
+module.exports = products;
